@@ -1,0 +1,20 @@
+.money {
+    background: linear-gradient(to left, rgb(37, 173, 0) 0%, rgba(0, 0, 0, 0) 100%);
+    color: rgb(255, 255, 255);
+    width: fit-content;
+    padding-left: 12px; 
+    padding-right: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: right;
+    float: right;
+    margin-top: 5%;
+}
+
+#container img {
+    width: 50px;
+    vertical-align: -10%;
+}
